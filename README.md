@@ -1,16 +1,67 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TaariqLangenhoven.TaariqLangenhoven" />
 
-<!--
-**TaariqLangenhoven/TaariqLangenhoven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Taariq+Langenehoven!;" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Frontend Web Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+ 🔭 **Current Projects:** Developing a pokedex web applicatoins where users can get all data related to a pokemon.
+
+ 🌱 **Currently Learning:** React | TypeScript | Chart.js
+
+ 🎯 **Objective:** To build innovative, scalable, and secure software solutions that have a meaningful impact on people's lives.
+ 
+</div>
+
+---
+
+<h2 align="center">💌 Let's Connect 💌</h2>
+<div align="center">
+  <a href="mailto:taariqlangenhoven@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/taariq-langenhoven-20307a180/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/TaariqLangenhoven" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">⚒️ Skills, Tools & Technologies ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mysql" alt="Web Development" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vscode,git,github" alt="Design & Tools" />
+</div>
+
+---
+
+<h2 align="center">🌐 Professional Expertise 🌐</h2>
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: left; max-width: 800px; margin: auto;">
+  <div>⚙️ <strong>Backend Development:</strong> Designing scalable APIs with <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>Flask</strong>.</div>
+  <div>🎨 <strong>Frontend Development:</strong> Building responsive, dynamic UIs with <strong>React.js</strong>, <strong>Angular</strong>, and <strong>Next.js</strong>.</div>
+  <div>💾 <strong>Database Management:</strong> Skilled in <strong>MySQL</strong>, <strong>MongoDB</strong>, and <strong>Firebase Realtime Database</strong>.</div>
+  <div>☁️ <strong>Cloud & DevOps:</strong> Managing scalable cloud infrastructure with <strong>AWS</strong>, <strong>Docker</strong>, and <strong>Supabase</strong>.</div>
+  <div>🔧 <strong>Dev Tools & Workflows:</strong> Expertise with <strong>Git</strong>, <strong>JIRA</strong>, <strong>Agile</strong> methodologies, and CI/CD pipelines.</div>
+  <div>📊 <strong>System Design & Architecture:</strong> Experience with microservices, event-driven architecture, and distributed systems.</div>
+</div>
+
+---
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=TaariqLangenhoven&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=TaariqLangenhoven&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+---
