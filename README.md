@@ -36,7 +36,7 @@
 
 <h2 align="center">⚒️ Skills, Tools & Technologies ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mysql" alt="Web Development" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Web Development" />
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vscode,git,github" alt="Design & Tools" />
 </div>
 
@@ -44,12 +44,7 @@
 
 <h2 align="center">🌐 Professional Expertise 🌐</h2>
 <div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: left; max-width: 800px; margin: auto;">
-  <div>⚙️ <strong>Backend Development:</strong> Designing scalable APIs with <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>Flask</strong>.</div>
-  <div>🎨 <strong>Frontend Development:</strong> Building responsive, dynamic UIs with <strong>React.js</strong>, <strong>Angular</strong>, and <strong>Next.js</strong>.</div>
-  <div>💾 <strong>Database Management:</strong> Skilled in <strong>MySQL</strong>, <strong>MongoDB</strong>, and <strong>Firebase Realtime Database</strong>.</div>
-  <div>☁️ <strong>Cloud & DevOps:</strong> Managing scalable cloud infrastructure with <strong>AWS</strong>, <strong>Docker</strong>, and <strong>Supabase</strong>.</div>
-  <div>🔧 <strong>Dev Tools & Workflows:</strong> Expertise with <strong>Git</strong>, <strong>JIRA</strong>, <strong>Agile</strong> methodologies, and CI/CD pipelines.</div>
-  <div>📊 <strong>System Design & Architecture:</strong> Experience with microservices, event-driven architecture, and distributed systems.</div>
+  <div>🎨 <strong>Frontend Development:</strong> Building responsive, dynamic UIs with <strong>React.js</strong></div>
 </div>
 
 ---
