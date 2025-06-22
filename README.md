@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Skills, Tools & Technologies ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Web Development" />
-    <p>HTML<p/>
+    <p>HTML CSS JavaScript TypeScirpt<p/>
     <p>CSS<p/>
     <p>JavaScritp<p/>
     <p>TypeScript<p/>
