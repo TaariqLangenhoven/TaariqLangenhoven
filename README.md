@@ -1,3 +1,4 @@
+# 💫 About Me:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TaariqLangenhoven.TaariqLangenhoven" />
 
 <h1 align="center">
@@ -17,8 +18,8 @@
  
 </div>
 
----
 
+## 🌐 Socials:
 <h2 align="center">💌 Let's Connect 💌</h2>
 <div align="center">
   <a href="mailto:taariqlangenhoven@gmail.com">
@@ -32,32 +33,14 @@
   </a>
 </div>
 
----
-
-<h2 align="center">⚒️ Skills, Tools & Technologies ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Web Development" />
-    <p>HTML CSS JavaScript TypeScirpt React<p/>  
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vscode,git,github" alt="Design & Tools" />
-</div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TaariqLangenhoven&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TaariqLangenhoven&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TaariqLangenhoven&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=TaariqLangenhoven&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center">🌐 Professional Expertise 🌐</h2>
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: left; max-width: 800px; margin: auto;">
-  <div>🎨 <strong>Frontend Development:</strong> Building responsive, dynamic UIs with <strong>React.js</strong></div>
-</div>
-
----
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=TaariqLangenhoven&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=TaariqLangenhoven&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=TaariqLangenhoven&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
