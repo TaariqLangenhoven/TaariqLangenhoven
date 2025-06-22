@@ -1,20 +1,63 @@
-<h1 align="center">Hi 👋, I'm Taariq Langenhoven</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TaariqLangenhoven.TaariqLangenhoven" />
 
-- 🔭 I’m currently working on **PokedexHub**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Taariq+Langenhoven!;" />
+</h1>
 
-- 🌱 I’m currently learning **React, TypeScript, Chart.js**
+<h3 align="center">Frontend Web Developer</h3>
 
-- 📫 How to reach me **taariqlangenhoven@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/taariq-langenhoven-20307a180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taariq-langenhoven-20307a180/" height="30" width="40" /></a>
-</p>
+<div align="center">
+ 🔭 **Current Projects:** Developing a pokedex web applicatoins where users can get all data related to a pokemon.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+ 🌱 **Currently Learning:** React | TypeScript | Chart.js
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taariqlangenhoven&show_icons=true&locale=en" alt="taariqlangenhoven" /></p>
+ 🎯 **Objective:** To build innovative, scalable, and secure software solutions that have a meaningful impact on people's lives.
+ 
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taariqlangenhoven&" alt="taariqlangenhoven" /></p>
+---
+
+<h2 align="center">💌 Let's Connect 💌</h2>
+<div align="center">
+  <a href="mailto:taariqlangenhoven@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/taariq-langenhoven-20307a180/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/TaariqLangenhoven" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">⚒️ Skills, Tools & Technologies ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Web Development" />
+    <p>HTML CSS JavaScript TypeScirpt React<p/>  
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vscode,git,github" alt="Design & Tools" />
+</div>
+
+---
+
+<h2 align="center">🌐 Professional Expertise 🌐</h2>
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: left; max-width: 800px; margin: auto;">
+  <div>🎨 <strong>Frontend Development:</strong> Building responsive, dynamic UIs with <strong>React.js</strong></div>
+</div>
+
+---
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=TaariqLangenhoven&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=TaariqLangenhoven&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=TaariqLangenhoven&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+---
