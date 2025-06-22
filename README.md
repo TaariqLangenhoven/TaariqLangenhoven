@@ -38,6 +38,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Web Development" />
     <p>HTML CSS JavaScript TypeScirpt<p/>
+    <img src="https://skillicons.dev/icons?i=css" alt="Web Development" />
     <p>CSS<p/>
     <p>JavaScritp<p/>
     <p>TypeScript<p/>
